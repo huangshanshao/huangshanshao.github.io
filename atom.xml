@@ -1,31 +1,31 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://chihedamang.github.io</id>
+    <id>https://huangshanshao.github.io</id>
     <title>Gridea</title>
-    <updated>2021-01-28T09:41:16.554Z</updated>
+    <updated>2021-01-28T09:49:29.082Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://chihedamang.github.io"/>
-    <link rel="self" href="https://chihedamang.github.io/atom.xml"/>
+    <link rel="alternate" href="https://huangshanshao.github.io"/>
+    <link rel="self" href="https://huangshanshao.github.io/atom.xml"/>
     <subtitle>温故而知新</subtitle>
-    <logo>https://chihedamang.github.io/images/avatar.png</logo>
-    <icon>https://chihedamang.github.io/favicon.ico</icon>
+    <logo>https://huangshanshao.github.io/images/avatar.png</logo>
+    <icon>https://huangshanshao.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, Gridea</rights>
     <entry>
         <title type="html"><![CDATA[11111]]></title>
-        <id>https://chihedamang.github.io/post/11111/</id>
-        <link href="https://chihedamang.github.io/post/11111/">
+        <id>https://huangshanshao.github.io/post/11111/</id>
+        <link href="https://huangshanshao.github.io/post/11111/">
         </link>
         <updated>2021-01-28T07:11:42.000Z</updated>
         <summary type="html"><![CDATA[<p><img src="https://chihedamang.github.io/post-images/1611824884758.jpg" alt="" loading="lazy">1111111</p>
 ]]></summary>
-        <content type="html"><![CDATA[<p><img src="https://chihedamang.github.io/post-images/1611824884758.jpg" alt="" loading="lazy">1111111</p>
+        <content type="html"><![CDATA[<p><img src="https://huangshanshao.github.io/post-images/1611824884758.jpg" alt="" loading="lazy">1111111</p>
 <!-- more -->
 <p>😏🤳🚷23543245<br>
 52</p>
 <p>52524532</p>
 <!-- more -->
 <!-- more -->
-<p>4524242424<img src="https://chihedamang.github.io/post-images/1611824919149.jpg" alt="" loading="lazy"></p>
+<p>4524242424<img src="https://huangshanshao.github.io/post-images/1611824919149.jpg" alt="" loading="lazy"></p>
 ]]></content>
     </entry>
 </feed>
