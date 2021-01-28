@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://huangshanshao.github.io</id>
+    <id>https://chihedamang.github.io</id>
     <title>Gridea</title>
-    <updated>2021-01-28T08:17:30.480Z</updated>
+    <updated>2021-01-28T08:46:56.839Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://huangshanshao.github.io"/>
-    <link rel="self" href="https://huangshanshao.github.io/atom.xml"/>
+    <link rel="alternate" href="https://chihedamang.github.io"/>
+    <link rel="self" href="https://chihedamang.github.io/atom.xml"/>
     <subtitle>温故而知新</subtitle>
-    <logo>https://huangshanshao.github.io/images/avatar.png</logo>
-    <icon>https://huangshanshao.github.io/favicon.ico</icon>
+    <logo>https://chihedamang.github.io/images/avatar.png</logo>
+    <icon>https://chihedamang.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, Gridea</rights>
     <entry>
         <title type="html"><![CDATA[11111]]></title>
-        <id>https://huangshanshao.github.io/post/11111/</id>
-        <link href="https://huangshanshao.github.io/post/11111/">
+        <id>https://chihedamang.github.io/post/11111/</id>
+        <link href="https://chihedamang.github.io/post/11111/">
         </link>
         <updated>2021-01-28T07:11:42.000Z</updated>
         <content type="html"><![CDATA[<p>1111111</p>
@@ -21,8 +21,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://huangshanshao.github.io/post/hello-gridea/</id>
-        <link href="https://huangshanshao.github.io/post/hello-gridea/">
+        <id>https://chihedamang.github.io/post/hello-gridea/</id>
+        <link href="https://chihedamang.github.io/post/hello-gridea/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
